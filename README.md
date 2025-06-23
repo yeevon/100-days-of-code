@@ -1,4 +1,4 @@
-# 💯 100 Days of Code: Python Bootcamp
+# 100 Days of Code: Python Bootcamp
 Mastering Python by building 100 real-world projects in 100 days. From automation to web development, data science to game dev — each day adds something new to the toolbox.
 
 -------------

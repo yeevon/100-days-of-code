@@ -20,9 +20,9 @@ All projects are written in Python 3 using libraries like:
 ## 📈 Progress
 **30 / 100 days completed**
 
-|**Day**	|**Project**	|**Description**|
-|-------|----------|---------------|
-|30	|Error Handling + Password Manager	|Learned how to use try, except, else, finally, and built a full-featured Tkinter-based password manager with save/search functionality and clipboard support.|
+|**Day**	| **Project**	                                                                                   |**Description**|
+|-------|------------------------------------------------------------------------------------------------|---------------|
+|30	| [Error Handling](./day_30/README.md) + [Password Manager](./password-manager-start/README.md)	 |Learned how to use try, except, else, finally, and built a full-featured Tkinter-based password manager with save/search functionality and clipboard support.|
 
 ----------------
 ## 🧠 Why This Project

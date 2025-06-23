@@ -1,0 +1,13 @@
+# PyCharm project files
+.idea/
+
+# Virtual environments
+venv/
+.env/
+env/
+.venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class

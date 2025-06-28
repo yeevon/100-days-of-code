@@ -1,4 +1,3 @@
-from pickle import GLOBAL
 from tkinter import *
 
 # ---------------------------- CONSTANTS ------------------------------- #

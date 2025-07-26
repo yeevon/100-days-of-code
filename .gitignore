@@ -1,6 +1,9 @@
 # PyCharm project files
 .idea/
 
+.env
+*/.env
+
 # Virtual environments
 venv/
 .env/

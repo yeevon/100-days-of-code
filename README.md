@@ -21,12 +21,12 @@ All projects are written in Python 3 using libraries like:
 **30 / 100 days completed**
 
 | **Day**	 | **Project**	                                                                                     | **Description**                                                                                                                                                                         |
-|----|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 30 | [Error Handling](day-30/README.md) + [Password Manager](day-29-password-manager-start/README.md) | Learned how to use try, except, else, finally, and built a full-featured Tkinter-based password manager with save/search functionality and clipboard support.                           |
-| 31 | [Flashy Card Capstone](day-31-flash-card-project-start/README.md)                                | A simple, interactive flashcard app built with Python and Tkinter to help you learn French vocabulary through spaced repetition.                                                        |
-| 32 | [Send Birthday Email](day-32-birthday-wisher-extrahard/README.md)                                | This Python script automatically sends personalized birthday emails to friends or family based on data in a CSV file.                                                                   |
-| 33 | [ISS Over Head Notification](day-33-issoverhead-start/README.md)                                 | This Python script checks every 60 seconds if the ISS station is currently visible from your location and if its dark outside if true automatically sends email notification to look up |
-
+|----------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 30       | [Error Handling](day-30/README.md) + [Password Manager](day-29-password-manager-start/README.md) | Learned how to use try, except, else, finally, and built a full-featured Tkinter-based password manager with save/search functionality and clipboard support.                           |
+| 31       | [Flashy Card Capstone](day-31-flash-card-project-start/README.md)                                | A simple, interactive flashcard app built with Python and Tkinter to help you learn French vocabulary through spaced repetition.                                                        |
+| 32       | [Send Birthday Email](day-32-birthday-wisher-extrahard/README.md)                                | This Python script automatically sends personalized birthday emails to friends or family based on data in a CSV file.                                                                   |
+| 33       | [ISS Over Head Notification](day-33-issoverhead-start/README.md)                                 | This Python script checks every 60 seconds if the ISS station is currently visible from your location and if its dark outside if true automatically sends email notification to look up |
+| 34       | [Quizzler App](day-34-quizzler-app/README.md)                                                    | A simple quiz game built with Python and tkinter, powered by trivia questions from the Open Trivia Database. It features multiple categories, difficulties, and question types, and uses a clean GUI to test your knowledge. |
 ## 🧠 Why This Project
 - Build a diverse portfolio of real apps and tools
 

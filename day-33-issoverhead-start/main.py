@@ -5,6 +5,7 @@ import requests
 import smtplib
 from datetime import datetime
 
+
 load_dotenv()
 MY_LAT = 29.693083 # Your latitude
 MY_LONG = -95.900337 # Your longitude

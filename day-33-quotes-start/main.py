@@ -1,12 +1,15 @@
 from tkinter import *
 from PIL import Image, ImageTk
-import requests
+import requests, os
+from dotenv import load_dotenv
 
+
+load_dotenv()
 
 def get_quote():
     response =  requests.get(
         "https://api.api-ninjas.com/v1/quotes",
-        headers={"X-API-Key": 'NT4867a9db3gzrZomJ6wyg==7sbvMsx4PdF187CD'}
+        headers={"X-API-Key": os.environ["SECRET"]}
     ).json()
     response.raise_for_status()
     canvas.itemconfig(quote_text, text=f"{response[0]['quote']} BY: {response[0]['author']}")

@@ -27,6 +27,7 @@ All projects are written in Python 3 using libraries like:
 | 32       | [Send Birthday Email](day-32-birthday-wisher-extrahard/README.md)                                | This Python script automatically sends personalized birthday emails to friends or family based on data in a CSV file.                                                                   |
 | 33       | [ISS Over Head Notification](day-33-issoverhead-start/README.md)                                 | This Python script checks every 60 seconds if the ISS station is currently visible from your location and if its dark outside if true automatically sends email notification to look up |
 | 34       | [Quizzler App](day-34-quizzler-app/README.md)                                                    | A simple quiz game built with Python and tkinter, powered by trivia questions from the Open Trivia Database. It features multiple categories, difficulties, and question types, and uses a clean GUI to test your knowledge. |
+| 35      | [Is It Raining SMS App](day-35/README.md)                                                    | A simple Python script that checks the upcoming weather forecast using the OpenWeatherMap API and sends an SMS alert via Twilio if rain is likely. |
 ## 🧠 Why This Project
 - Build a diverse portfolio of real apps and tools
 

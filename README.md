@@ -2,7 +2,7 @@
 
 Mastering Python by building 100 real-world projects in 100 days. From automation to web development, data science to game dev — each day adds something new to the toolbox.
 
--------------
+---
 
 ## 🚀 What I'm Building
 
@@ -21,7 +21,7 @@ All projects are written in Python 3 using libraries like:
 
 ---
 
-**30 / 100 days completed**
+### 30 / 100 days completed
 
 | **Day** | **Project** | **Description** |
 |----------|-------------|-----------------|
@@ -33,6 +33,8 @@ All projects are written in Python 3 using libraries like:
 | 35 | [Is It Raining SMS App](day-35/README.md) | A simple Python script that checks the upcoming weather forecast using the OpenWeatherMap API and sends an SMS alert via Twilio if rain is likely. |
 | 36 | [Is It Raining SMS App](day-36-stock-news-extrahard/README.md) | This Python script checks the daily stock price of a selected company and fetches recent news articles if there's a significant price change. It also sends SMS alerts via Twilio with the latest headline summaries. |
 
+---
+
 ## 🧠 Why This Project
 
 - Build a diverse portfolio of real apps and tools
@@ -43,8 +45,10 @@ All projects are written in Python 3 using libraries like:
 
 - Prep for tech roles by covering real-world use cases
 
-------------
+---
+
 ## 📁 Structure
+
 Each day has its own folder with:
 
 - README.md describing what was built
@@ -53,9 +57,10 @@ Each day has its own folder with:
 
 - Screenshots or outputs (if visual)
 
---------------
+---
+
 ## 🛠️ Tools & Topics Used
+
 Python 3, Tkinter, Flask, Selenium, Pandas, NumPy, SQLite, REST APIs, BeautifulSoup, Matplotlib, Jupyter, Git & GitHub, and more.
 
-------------
-
+---

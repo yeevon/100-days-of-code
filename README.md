@@ -1,8 +1,11 @@
 # 100 Days of Code: Python Bootcamp
+
 Mastering Python by building 100 real-world projects in 100 days. From automation to web development, data science to game dev — each day adds something new to the toolbox.
 
 -------------
+
 ## 🚀 What I'm Building
+
 - 100 Python projects in 100 days — each day a new challenge
 
 - Covering:
@@ -16,19 +19,22 @@ All projects are written in Python 3 using libraries like:
 
 ```pandas```, ```tkinter```, ```flask```, ```selenium```, ```beautifulsoup```, ```matplotlib```, ```sqlite```, ```requests```, and more.
 
------------
-## 📈 Progress
+---
+
 **30 / 100 days completed**
 
-| **Day**	 | **Project**	                                                                                     | **Description**                                                                                                                                                                         |
-|----------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 30       | [Error Handling](day-30/README.md) + [Password Manager](day-29-password-manager-start/README.md) | Learned how to use try, except, else, finally, and built a full-featured Tkinter-based password manager with save/search functionality and clipboard support.                           |
-| 31       | [Flashy Card Capstone](day-31-flash-card-project-start/README.md)                                | A simple, interactive flashcard app built with Python and Tkinter to help you learn French vocabulary through spaced repetition.                                                        |
-| 32       | [Send Birthday Email](day-32-birthday-wisher-extrahard/README.md)                                | This Python script automatically sends personalized birthday emails to friends or family based on data in a CSV file.                                                                   |
-| 33       | [ISS Over Head Notification](day-33-issoverhead-start/README.md)                                 | This Python script checks every 60 seconds if the ISS station is currently visible from your location and if its dark outside if true automatically sends email notification to look up |
-| 34       | [Quizzler App](day-34-quizzler-app/README.md)                                                    | A simple quiz game built with Python and tkinter, powered by trivia questions from the Open Trivia Database. It features multiple categories, difficulties, and question types, and uses a clean GUI to test your knowledge. |
-| 35      | [Is It Raining SMS App](day-35/README.md)                                                    | A simple Python script that checks the upcoming weather forecast using the OpenWeatherMap API and sends an SMS alert via Twilio if rain is likely. |
+| **Day** | **Project** | **Description** |
+|----------|-------------|-----------------|
+| 30 | [Error Handling](day-30/README.md) + [Password Manager](day-29-password-manager-start/README.md) | Learned how to use try, except, else, finally, and built a full-featured Tkinter-based password manager with save/search functionality and clipboard support. |
+| 31 | [Flashy Card Capstone](day-31-flash-card-project-start/README.md) | A simple, interactive flashcard app built with Python and Tkinter to help you learn French vocabulary through spaced repetition. |
+| 32 | [Send Birthday Email](day-32-birthday-wisher-extrahard/README.md) | This Python script automatically sends personalized birthday emails to friends or family based on data in a CSV file. |
+| 33 | [ISS Over Head Notification](day-33-issoverhead-start/README.md) | This Python script checks every 60 seconds if the ISS station is currently visible from your location and if its dark outside if true automatically sends email notification to look up |
+| 34 | [Quizzler App](day-34-quizzler-app/README.md) | A simple quiz game built with Python and tkinter, powered by trivia questions from the Open Trivia Database. It features multiple categories, difficulties, and question types, and uses a clean GUI to test your knowledge. |
+| 35 | [Is It Raining SMS App](day-35/README.md) | A simple Python script that checks the upcoming weather forecast using the OpenWeatherMap API and sends an SMS alert via Twilio if rain is likely. |
+| 36 | [Is It Raining SMS App](day-36-stock-news-extrahard/README.md) | This Python script checks the daily stock price of a selected company and fetches recent news articles if there's a significant price change. It also sends SMS alerts via Twilio with the latest headline summaries. |
+
 ## 🧠 Why This Project
+
 - Build a diverse portfolio of real apps and tools
 
 - Practice consistency and progression
